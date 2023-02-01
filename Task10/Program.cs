@@ -8,7 +8,6 @@ Console.WriteLine();
 Console.WriteLine();
 
 Console.Write("Введите число, пожалуйста: ");
-//int singleDigit=0;
 
 if(int.TryParse(Console.ReadLine(), out int number))
 {
